@@ -19,3 +19,5 @@ while true do
 	server:poll()
 end
 ```
+看起来是这样的：
+![image](https://raw.githubusercontent.com/shuax/lua-mongoose/master/screenshot.png)
